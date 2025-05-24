@@ -129,15 +129,15 @@ const ParentFooter = () => {
                   <MapPin size={18} className="text-green-600" />
                 </div>
                 <p className="text-gray-600">
-                  Near PNB bank, Kanti Factory Rd,<br /> 
-                  Kankarbagh, Patna, BIHAR-800026
+                  Mitu Palace-202, Near PNB bank, Kanti Factory Rd, Chitragupta Nagar,
+                  Kankarbagh, Patna, Bihar-800026
                 </p>
               </li>
               <li className="flex items-center">
                 <div className="mr-4 bg-green-100 p-2 rounded-full">
                   <Phone size={18} className="text-green-600" />
                 </div>
-                <p className="text-gray-600">7256095121</p>
+                <p className="text-gray-600">9470670833</p>
               </li>
               <li className="flex items-center">
                 <div className="mr-4 bg-green-100 p-2 rounded-full">

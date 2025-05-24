@@ -320,7 +320,7 @@ const ParentHero = () => {
                                     href="/coming-soon"
                                     className={`inline-flex items-center border border-x-4 transition-all duration-500 bg-white/20 hover:bg-white/30 backdrop-blur-md px-5 py-2.5 rounded-xl text-gray-900 font-medium ${hoverBike ? 'translate-y-0 opacity-100' : 'translate-y-2 opacity-80'}`}
                                 >
-                                    <span className="font-bold">Visit Mantra-e-Bike</span>
+                                    <span className="font-bold">Visit Our Website</span>
                                     <ChevronRight size={16} className="ml-2" />
                                 </a>
                             </div>
@@ -453,13 +453,15 @@ const ParentHero = () => {
                                 <div className="mr-4 mt-1 bg-green-100 p-2 rounded-full">
                                     <Bike size={20} className="text-green-600" />
                                 </div>
-                                <p className="text-lg font-semibold text-gray-800 mt-2">Mantra (EV Division)
+                                <p className="text-lg font-semibold text-gray-800 mt-2">Electric Mobility Division (EV Division)
                                 </p>
                             </div>
-                            <p className="text-gray-600 ml-12">Mantra is our exclusive wholesale division for eco-friendly electric
-                                bikes. With a mission to make green mobility accessible, Mantra offers high-quality e-bikes at competitive
-                                prices. What sets Mantra apart is our 3-year continuous service promise for customers who become part of
-                                the Mantra family, reinforcing our commitment to long-term value and sustainability.
+                            <p className="text-gray-600 ml-12">Our Electric Mobility Division is dedicated to promoting eco-friendly
+                                 transportation by offering a wide range of high-quality electric bikes from multiple trusted brands. 
+                                 With a mission to make green mobility accessible to everyone, we provide competitively priced e-bikes 
+                                 that cater to various needs and preferences. What truly sets us apart is our 3-year continuous service 
+                                 promise for customers who join our electric mobility network-reflecting our commitment to long-term value, 
+                                 customer satisfaction, and sustainability.
 
                             </p>
                             <p className="ml-12"><a href="/coming-soon" className="text-blue-600">Click here</a><span> to visit the site</span></p>
@@ -513,7 +515,7 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Phone</h4>
-                                    <p className="text-gray-600">7256095121</p>
+                                    <p className="text-gray-600">9470670833</p>
                                 </div>
                             </div>
 
@@ -523,7 +525,7 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Email</h4>
-                                    <p className="text-gray-600">carhub@service.in</p>
+                                    <p className="text-gray-600">carhub@wsmobility.in</p>
                                 </div>
                             </div>
 
@@ -534,7 +536,7 @@ const ParentHero = () => {
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Location</h4>
                                     <p className="text-gray-600">Near PNB bank, Kanti Factory Rd,
-                                        <br /> Kankarbagh, Patna, BIHAR-800026</p>
+                                        <br /> Kankarbagh, Patna, Bihar-800026</p>
                                     <a href="https://www.google.com/maps/dir//CAR+HUB+:+Multi+brand+Car+Service+Center+in+Patna,+Kanti+Factory+Rd,+near+PNB,+New+Colony,+Kankarbagh,+Kumhrar,+Patna,+Bihar+800020" className="underline  text-blue-500">see on map</a>
                                 </div>
                             </div>
@@ -545,16 +547,16 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Business Hours</h4>
-                                    <p className="text-gray-600">Sun-Thu: 8AM-6PM</p>
-                                    <p className="text-gray-600">Sat: 9AM-4PM</p>
+                                    <p className="text-gray-600">Sat-Thu: 9AM - 7PM</p>
+                                    
                                     <p className="text-gray-600">Fri: Closed</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div className="bg-white rounded-lg shadow-md p-6 pr-12">
-                        <h3 className="text-center font-bold p-1 bg-yellow-400 rounded-xl text-lg">Mantra (EV Division)</h3>
+                    <div className="bg-white rounded-lg shadow-md p-6 pr-8">
+                        <h3 className="text-center font-bold p-1 bg-yellow-400 rounded-xl text-lg">EV Division</h3>
                         <h3 className="text-xl font-semibold text-gray-800 mb-4 mt-4">Get In Touch</h3>
                         <div className="space-y-4">
                             <div className="flex items-start">
@@ -563,7 +565,7 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Phone</h4>
-                                    <p className="text-gray-600">7256095121</p>
+                                    <p className="text-gray-600">9470670833</p>
                                 </div>
                             </div>
 
@@ -573,7 +575,7 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Email</h4>
-                                    <p className="text-gray-600">mantraebike@service.in</p>
+                                    <p className="text-gray-600">ebikes@wsmobility.in</p>
                                 </div>
                             </div>
 
@@ -583,8 +585,8 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Location</h4>
-                                    <p className="text-gray-600">Near PNB bank, Kanti Factory Rd,
-                                        <br /> Kankarbagh, Patna, BIHAR-800026</p>
+                                    <p className="text-gray-600">Mitu Palace-202, Near PNB bank,<br/> Chitragupta Nagar, Kanti Factory<br/> Rd,
+                                        Kankarbagh, Patna,<br/> Bihar-800026</p>
                                     <a href="" className="underline  text-blue-500">see on map</a>
                                 </div>
                             </div>
@@ -595,9 +597,8 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Business Hours</h4>
-                                    <p className="text-gray-600">Sun-Thu: 8AM-6PM</p>
-                                    <p className="text-gray-600">Sat: 9AM-4PM</p>
-                                    <p className="text-gray-600">Fri: Closed</p>
+                                    <p className="text-gray-600">Mon-Sun: 9AM - 7PM</p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -613,7 +614,7 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Phone</h4>
-                                    <p className="text-gray-600">7256095121</p>
+                                    <p className="text-gray-600">9470670833</p>
                                 </div>
                             </div>
 
@@ -623,7 +624,7 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Email</h4>
-                                    <p className="text-gray-600">bikemen@service.in</p>
+                                    <p className="text-gray-600">bikemen@wsmobility.in</p>
                                 </div>
                             </div>
 
@@ -633,8 +634,8 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Location</h4>
-                                    <p className="text-gray-600">Naya Tola, Sadar BLOCK,
-                                        <br /> Kumhrar, Patna, BIHAR-800026</p>
+                                    <p className="text-gray-600">Near PNB bank, Kanti Factory Rd,
+                                        <br /> Kankarbagh, Patna, Bihar-800026</p>
                                     <a href="https://www.google.com/maps/dir//BOSCH+Authorized+Car+Service+Center-+Carhub,+Naya+Tola,+near+Patna,+Daud+Bigha,+Sadar+BLOCK,+Kumhrar,+Patna,+Bihar+800026" className="underline  text-blue-500">see on map</a>
                                 </div>
                             </div>
@@ -645,9 +646,7 @@ const ParentHero = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-gray-800">Business Hours</h4>
-                                    <p className="text-gray-600">Sun-Thu: 8AM-6PM</p>
-                                    <p className="text-gray-600">Sat: 9AM-4PM</p>
-                                    <p className="text-gray-600">Fri: Closed</p>
+                                    <p className="text-gray-600">Mon-Sun: 9AM - 7PM</p>
                                 </div>
                             </div>
                         </div>

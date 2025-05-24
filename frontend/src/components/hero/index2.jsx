@@ -12,11 +12,11 @@ const Hero2 = () => {
       <div className="details flex flex-col mb-6 md:mb-0 md:ml-2">
         <span className="text-green-600 text-xl md:text-2xl font-bold"><PhoneInTalkIcon className="mr-2" /> Contact</span>
         <span className="text-base md:text-lg ml-6 md:ml-10">Car Hub call centre operates from 8AM - 9PM, Saturday to Thursday.</span>
-        <span className="text-base md:text-lg ml-6 md:ml-10">Call us at <a href="/contact" className="text-blue-800 font-bold underlined ml-1"> 7256095121</a> </span>
+        <span className="text-base md:text-lg ml-6 md:ml-10">Call us at <a href="/contact" className="text-blue-800 font-bold underlined ml-1"> 9470670833</a> </span>
 
         <span className="text-green-600 text-xl md:text-2xl font-bold mt-4 md:mt-6"><BookOnlineIcon className="mr-2" /> Book Online</span>
         <span className="text-base md:text-lg ml-6 md:ml-10">Make a booking online at a single tap.</span>
-        <span className="text-base md:text-lg ml-6 md:ml-10">Call us at <a href="/contact" className="text-blue-800 font-bold underlined ml-1">7256095121</a> </span>
+        <span className="text-base md:text-lg ml-6 md:ml-10">Call us at <a href="/contact" className="text-blue-800 font-bold underlined ml-1">9470670833</a> </span>
       </div>
       <div className="working-media mx-auto md:ml-8">
         <img className="rounded-3xl w-full max-w-xs md:max-w-md" src="/assets/car-img.jpg" alt="car-image" />
@@ -35,7 +35,7 @@ const Hero2 = () => {
           and check for any faults and concerns you may have. A collection report will then be generated and sent on sms & email.
           <br />
           <br />
-          If you have any concerns or enquiries, please contact customer support at 7256095121.
+          If you have any concerns or enquiries, please contact customer support at 9470670833.
           Please remove any valuable belongings as your car passes through multiple departments.
           <br />
           <br />
